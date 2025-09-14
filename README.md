@@ -76,6 +76,15 @@ Esses arquivos servem como documentação funcional e podem ser usados para comu
 
 ---
 
+## 🔗 Acesso ao Relatório Online
+
+O relatório HTML gerado pelos testes automatizados está disponível via GitHub Pages:
+
+👉 [Clique aqui para visualizar o relatório](https://mirellemanoela.github.io/playwright-sauce-demo-tests/)
+
+Esse relatório mostra o status de todos os testes executados, com detalhes de tempo, resultado e estrutura de execução.
+
+
 ## 🚀 Como Instalar e Rodar os Testes
 
 ### 1. Instalar dependências
